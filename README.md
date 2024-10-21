@@ -1,10 +1,10 @@
 # my-portofolio
 
 ⚙️ Tech Stack
-Node.js
-React.js
-Three.js
-React Three Fiber
-React Three Drei
-Vite
-Tailwind CSS
+1. Node.js
+2. React.js
+3. Three.js
+4. React Three Fiber
+5. React Three Drei
+6. Vite
+7. Tailwind CSS
